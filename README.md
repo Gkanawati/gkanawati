@@ -1,14 +1,25 @@
 ### Ola! Eu sou o Gabriel 👋
 
+<ul>
+
+<li>
+
 ##### Desenvolvedor Front-End
+
+</li>
+<li>
 
 ##### Estudante de Engenharia de Computação
 
-#### Entre em Contato comigo:
+</li>
+
+### Entre em Contato comigo:
+
+</ul>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gkanawati_/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielkanawati/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielkanawati130@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkanawati&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkanawati&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkanawati&layout=compact)](https://github.com/gkanawati/github-readme-stats)
 
 ### Linguagens e Tecnologias:
 
