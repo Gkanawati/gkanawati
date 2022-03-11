@@ -4,12 +4,12 @@
 
 <li>
 
-##### Desenvolvedor Front-End
+#### Desenvolvedor Front-End
 
 </li>
 <li>
 
-##### Cursando Engenharia de Computação
+#### Cursando Engenharia de Computação
 
 </li>
 
