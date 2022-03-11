@@ -51,4 +51,7 @@
     <a href='https://azure.microsoft.com/pt-br/' target="_blank">
     <img align='center' alt='Azure' src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
    </a>
+    <a href='https://git-scm.com/' target="_blank">
+    <img align='center' alt='Git' src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+   </a>
 </div>
