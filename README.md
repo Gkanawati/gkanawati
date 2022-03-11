@@ -9,7 +9,7 @@
 </li>
 <li>
 
-##### Estudante de Engenharia de Computação
+##### Cursando Engenharia de Computação
 
 </li>
 
