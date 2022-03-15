@@ -1,4 +1,4 @@
-## Olá, sou o Gabriel!
+## Olá, eu sou o Gabriel Kanawati!
 
 ### 👨‍💻 -Desenvolvedor Front-End Web e Mobile
 
