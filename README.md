@@ -5,7 +5,7 @@
 ### 🚀 -Apaixonado por inovar e evoluir sempre
 
 <div align="center">
-  <a href="https://github.com/gkanawati">
+  <a href="https://github.com/gkanawati" target="_blank">
   <img height="180em" width='49%' style="margin-right: 2px" src="https://github-readme-stats.vercel.app/api?username=gkanawati&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" width='49%' style="margin-left: 2px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkanawati&layout=compact&langs_count=7&theme=dracula"/>
 
 <div style="display: inline_block"><br>
