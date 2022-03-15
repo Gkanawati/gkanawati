@@ -1,10 +1,6 @@
-<div>
-
 ## Olá, sou o Gabriel!
-
-## 👨‍💻 -Desenvolvedor Front-End Web e Mobile
-
-</div>
+### 👨‍💻 -Desenvolvedor Front-End Web e Mobile
+### 🚀 -Apaixonado por inovar e evoluir sempre
 
 <div align="center">
   <a href="https://github.com/gkanawati">
