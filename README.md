@@ -1,5 +1,10 @@
+<div>
+
 ## Olá, sou o Gabriel!
+
 ## 👨‍💻 -Desenvolvedor Front-End Web e Mobile
+
+</div>
 
 <div align="center">
   <a href="https://github.com/gkanawati">
