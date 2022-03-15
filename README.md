@@ -2,7 +2,7 @@
 
 ### 👨‍💻 -Desenvolvedor Front-End Web e Mobile
 
-### 🚀 -Apaixonado por inovar e evoluir sempre
+### 🚀 -Apaixonado por inovar e evoluir
 
 <div align="center">
   <a href="https://github.com/gkanawati" target="_blank">
