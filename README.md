@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gabriel Kanawati!
 
-### 👨‍💻 -Desenvolvedor Front-End Web e Mobile
+### 👨‍💻 -Desenvolvedor Frontend e Mobile
 
 ### 👨‍🏫 -Estudante Eng. de Computação IFSULDEMINAS
 
