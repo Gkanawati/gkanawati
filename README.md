@@ -2,7 +2,7 @@
 
 ### 👨‍💻 -Desenvolvedor Frontend e Mobile
 
-### 👨‍🏫 -Estudante Eng. de Computação IFSULDEMINAS
+### 👨‍🏫 -Estudante Eng. de Software
 
 ### 🚀 -Apaixonado por inovar e evoluir
 
