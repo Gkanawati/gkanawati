@@ -4,7 +4,7 @@
 
 ### 👨‍🏫 -Estudante Eng. de Software
 
-### 🚀 -Apaixonado por inovar e evoluir
+### 🚀 -Apaixonado por criar, inovar e evoluir
 
 <div align="center">
   <a href="https://github.com/gkanawati" target="_blank">
