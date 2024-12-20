@@ -1,6 +1,6 @@
 ## Olá, eu sou o Kanawati!
 
-### 👨‍💻 -Desenvolvedor Frontend e Mobile
+### 👨‍💻 -Desenvolvedor Web FullStack
 
 ### 👨‍🏫 -Estudante Eng. de Software
 
