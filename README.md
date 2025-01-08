@@ -1,10 +1,10 @@
 ## Olá, eu sou o Kanawati!
 
-### 👨‍💻 -Desenvolvedor Web FullStack
+### 👨‍💻 Desenvolvedor Web FullStack
 
-### 👨‍🏫 -Estudante Eng. de Software
+### 👨‍🏫 Estudante Eng. de Software
 
-### 🚀 -Apaixonado por criar, inovar e evoluir
+### 🚀 Apaixonado por criar, inovar e evoluir
 
 <div align="center">
   <a href="https://github.com/gkanawati" target="_blank">
