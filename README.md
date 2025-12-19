@@ -1,9 +1,8 @@
 ## Olá, eu sou o Kanawati!
 
 ### 👨‍💻 Desenvolvedor Web FullStack
-
-### 👨‍🏫 Estudante Eng. de Software
-
+### 👨‍🏫 Engenheiro de Software
+### 🚀 Working at: CashMe
 ### 🚀 Apaixonado por criar, inovar e evoluir
 
 <div align="center">
@@ -12,8 +11,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gkanawati&layout=compact&langs_count=6&theme=dracula"/>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="35" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="SpringBoot" height="35" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />                
   <img align="center" alt="typescript" height="35" width="48" src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor">
-  <img align="center" alt="Javascript" height="35" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="35" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NextJs" height="35" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Material-UI" height="35" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
@@ -24,8 +24,6 @@
   <img align="center" alt="Git" height="35" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="PHP" height="35" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" alt="Wordpress" height="35" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"> 
-  <img align="center" alt="Java" height="35" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="SpringBoot" height="35" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />                
   <br>
 </div>
   
