@@ -1,7 +1,7 @@
 ## Olá, eu sou o Gabriel Kanawati! 👋
 
 Desenvolvedor FullStack especializado em **Backend**. 
-Atualmente na [**CashMe**](https://www.cashme.com.br/), trabalhando com microservices, APIs de pagamento e integrações bancárias. Apaixonado por criar soluções escaláveis e resolver problemas complexos de forma simples.
+Atualmente na CashMe, trabalhando com microservices, APIs de pagamento e integrações bancárias. Apaixonado por criar soluções escaláveis e resolver problemas complexos de forma simples.
 
 🎓 Engenheiro de Software<br/>
 📍 São Paulo, Brasil<br/>
